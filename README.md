@@ -1,1 +1,4 @@
-# danielpublicrepo
+# Biography
+My name is Yuqing (Daniel) Fang, and I am a second year MPP student at Georgetown University. I completed my undergrad degree from Macalester College with political science and economic majors, and a minor in statistics. My policy interests are economic policies and international development policies. It is exciting to having taken the research design and implementation course because I get to be led by top researchers at professional research institutions, and have the chance of learning their skills and experiences.
+
+Having completed McCourt's prerequisites, I have experiences working on Stata, performing tasks such as data editing and analysis. I have some experience using Github in statistics courses in college, but still need time to familiarize functions other than creating repositories. I have no experience working with SurveyCTO.
