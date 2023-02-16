@@ -1,0 +1,21 @@
+---
+title: "0215exercise"
+format: 
+  html:
+    self-contained: true
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+```
+
+
+
+```{r}
+ggplot(data = storms) +
+  geom_point(mapping = aes(x = pressure, y = wind))
+```
+
+
