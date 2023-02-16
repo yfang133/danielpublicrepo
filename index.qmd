@@ -15,7 +15,7 @@ library(ggplot2)
 
 ```{r}
 ggplot(data = storms) +
-  geom_point(mapping = aes(x = pressure, y = wind))
+  geom_point(mapping = aes(x = pressure, y = wind, color = category), alpha = 0.5)
 ```
 
 
